@@ -4,7 +4,7 @@ print("Hello")
 
 
 def hobby():
-    print("Do good to others as you would want done to you.")
+    print("Do to others as you would want done to you.")
     print("I sleep all night and I work all day.")
     print("The earth is a wonderful piece of rock")
 
